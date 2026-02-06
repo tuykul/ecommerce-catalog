@@ -84,9 +84,6 @@ ecommerce-catalog/
 ├── src/                 # Source code
 │   ├── assets/         # Assets (images, styles, dll)
 │   ├── components/     # Vue components
-│   ├── views/          # Vue views/pages
-│   ├── router/         # Vue Router configuration
-│   ├── store/          # Vuex store (jika ada)
 │   ├── App.vue         # Root component
 │   └── main.js         # Entry point
 ├── .gitignore          # Git ignore file
